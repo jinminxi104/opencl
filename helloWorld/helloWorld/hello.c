@@ -35,7 +35,7 @@ int main()
     char string[MEM_SIZE];
     
     FILE *fp;
-    char fileName[] = "/Users/jinminxi/Projects/opencl/hw/hello.cl";
+    char fileName[] = "/Users/jinminxi/Projects/opencl/helloWorld/helloWorld/hello.cl";
     char *source_str;
     size_t source_size;
     /* Load the source code containing the kernel*/
